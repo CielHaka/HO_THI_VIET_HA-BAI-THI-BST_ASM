@@ -1,0 +1,107 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: url("imgs/HV-Main-BG.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+/* Navbar*/
+.bg-white-50 {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.backdrop-blur {
+    backdrop-filter: blur(10px);
+}
+
+.icon-btn {
+    background-color: #58C15D !important;
+    color: #fff !important;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.icon-btn:hover {
+    background-color: #D7F0D8 !important;
+    color: #28572A !important;
+}
+
+/* Hero */
+.hero {
+    background-image: url("imgs/hero.svg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.btn-harvest {
+    background-color: #58C15D !important;
+    color: #ffffff !important;
+    border-radius: 50px !important;
+    padding: 12px 32px !important;
+    font-weight: 600;
+    border: none !important;
+}
+
+
+.btn-outline-harvest {
+    border: 2px solid #ffaca6 !important;
+    color: #ffaca6 !important;
+    border-radius: 50px !important;
+    padding: 12px 32px !important;
+    font-weight: 600;
+    background: transparent !important;
+}
+
+/* Product*/
+.product-card .product-img {
+    width: 180px;
+}
+
+.sold {
+    color: #D93A2F;
+    font-family: "Lato", sans-serif;
+}
+
+.highlight-box {
+    background: #28572A;
+    border-radius: 50px;
+}
+
+
+/*About us*/
+.feature-box {
+    background: #28572A;
+    border-radius: 25px;
+    color: #fff;
+}
+
+.btn-explore {
+    background-color: #c3362c !important;
+    color: #ffffff !important;
+    border-radius: 50px !important;
+    padding: 12px 32px !important;
+    font-weight: 600;
+    border: none !important;
+}
+
+
+/* Comments */
+.comment-box {
+    background: #28572A;
+    color: #fff;
+    border-radius: 20px;
+}
+
+/* Newsletter */
+.newsletter {
+    background: #040d04;
+}
+
+/* Footer */
+.footer {
+    background: #ffffff;
+}
