@@ -1,0 +1,1 @@
+Harvestly là nền tảng thương mại điện tử kết nối nông sản sạch từ nông trại đến bàn ăn. Phong cách UI hướng đến sự sạch sẽ (Clean Design), sử dụng tone màu xanh lá tự nhiên kết hợp khoảng trắng rộng rãi (Generous Whitespace) để làm nổi bật sự tươi ngon của hình ảnh nông sản sản phẩm
